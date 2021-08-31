@@ -1,14 +1,7 @@
-# CounterApp
+# Testing básico
 
-Esta es nuestra primera aplicación de React. Recuerden que si desean ejecutar esta aplicación, deben de reconstruir los módulos de node así:
+Ejemplo de testing en React usando Jest y Enzyme.
 
-```
-npm install
-```
+Ejecutar `npm install`para instalar las dependencias. Y luego `npm start` para lanzar el proyecto.
 
-Y luego pueden correrlo así
-
-```
-npm start
-```
-
+Para acceder a la consola de testing de Jest ejecutar el comando `npm run test`.
