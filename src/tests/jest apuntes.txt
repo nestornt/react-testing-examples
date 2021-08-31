@@ -1,0 +1,14 @@
+Presionar la tecla P una vez se hayan hecho los test para poder filtrar por nombre de archivo
+y ver así el contenido individual.
+
+Exportar las funciones a testear e importarlas el archivo de testing
+
+Habilitar autocompletado importando: import '@testing-library/jest-dom'
+
+Correr tests si usaste create-react-app: npm run test
+
+Los console.logs se indican en la consola indicando el numero de linea
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Crear directorio + archivo en vs code: carpeta/archivo
