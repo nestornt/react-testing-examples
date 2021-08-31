@@ -1,4 +1,4 @@
-# Testing
+# Testing en React
 
 Ejemplo de testing en React usando Jest y Enzyme.
 
